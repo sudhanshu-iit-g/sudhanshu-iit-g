@@ -1,67 +1,109 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="350"/>
+</p>
 
-###
+<h1 align="center">Hi there 👋, I'm Sudhanshu Raj</h1>
+<h3 align="center">🚀 Software Engineer | Competitive Programmer | AI & Cloud Enthusiast</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudhanshu-iit-g&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" /> 
+  <a href="https://github.com/sudhanshu-iit-g?tab=followers">
+    <img src="https://img.shields.io/github/followers/sudhanshu-iit-g?label=Followers&style=flat&color=blueviolet" alt="followers" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudhanshu-iit-g.sudhanshu-iit-g&"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me  
+- 🎓 Final year **B.Tech undergrad at IIT Guwahati**  
+- 🏆 **Competitive Programmer** – Codeforces Specialist (842+ problems solved)  
+- 🤖 Exploring **Machine Learning, Generative AI, and Data Analytics**  
+- ☁️ Passionate about **Cloud-Native Systems (AWS, Docker, Kubernetes)**  
+- 💡 Building projects that connect **AI + Cloud + Full-Stack Development**  
+- ⚡ Motto: *“Code. Optimize. Scale.”*  
 
-<h1 align="center">Hey there 👋<br>I am a final year B.Tech undergrad student from IIT Guwahati.</h1>
+---
 
-###
+### 🏅 Coding Profiles  
+<p align="center">
+  <a href="https://codeforces.com/profile/sudhanshu2610"><img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" /></a>
+  <a href="https://leetcode.com/u/sudhanshu_iitg/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sudhanshu2610"><img src="https://img.shields.io/badge/GFG-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/sudhanshu2610"><img src="https://img.shields.io/badge/HackerRank-Profile-darkgreen?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://atcoder.jp/users/sudhanshu2610"><img src="https://img.shields.io/badge/AtCoder-Profile-purple?style=for-the-badge&logo=atcoder" /></a>
+  <a href="https://www.codechef.com/users/sudhanshu2610"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" /></a>
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+#### 📌 Competitive Highlights
+- ✅ **842+ problems solved** across platforms  
+- ✅ **284 active coding days**  
+- ✅ **Codeforces Specialist (1442, max 1485)**  
+- 🔥 Consistent practice across **LeetCode, Codeforces, GfG, HackerRank, CodeChef, AtCoder**  
 
-###
+---
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,java" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,streamlit" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 📅 Coding Activity (Across Platforms)
 
-###
+<p align="center">
+  <!-- LeetCode Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/sudhanshu_iitg?theme=dark&font=Source%20Code%20Pro&ext=activity" alt="LeetCode Stats" height="300"/>
+  
+  <!-- Codeforces Stats Card -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sudhanshu2610&theme=radical" alt="Codeforces Stats" height="300"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudhanshu-iit-g&theme=radical&hide_border=true" alt="streak stats" />
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-iit-g&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-iit-g&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudhanshu-iit-g&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+### 📂 Featured Projects  
+<p align="center">
+  <a href="https://github.com/sudhanshu-iit-g/StackExchangeRAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=StackExchangeRAG&theme=radical" /></a>
+  <a href="https://github.com/sudhanshu-iit-g/TextLite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=TextLite&theme=radical" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sudhanshu-iit-g/BreatheEasy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=BreatheEasy&theme=radical" /></a>
+  <a href="https://project-sudhanshu-cl653.streamlit.app/"><img src="https://img.shields.io/badge/Demo%20Project-Crop%20Yield%20Prediction-blueviolet?style=for-the-badge&logo=streamlit" /></a>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudhanshu16/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/sudhanshu-iit-g"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:raj.sudhanshu@iitg.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ *“The best way to predict the future is to build it.”*
