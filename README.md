@@ -28,6 +28,24 @@
 
 ---
 
+## 💼 Experience  
+
+<details>
+<summary><b>Software Engineer Intern — ZecData Technology</b> <i>(May – June 2025 | Indore, India)</i></summary>  
+
+- 🚀 **GenAI Analytics Platform**  
+  - Engineered a GenAI analytics platform for natural language insights & visualizations, reducing analysis time by **70%**.  
+  - Deployed document-aware agents that parsed **200+ uploaded files**, delivering contextual answers with **<2 sec latency**.  
+
+- ☁️ **Cloud-Native Automation**  
+  - Built **serverless workflows** using AWS Lambda, S3, and Amazon Bedrock, automating **200+ processes**.  
+  - Scaled to handle **50K+ requests/day** with **99.9% uptime**, while cutting infrastructure costs by **40%**.  
+  - Transformed **1M+ UNICEF records** across **40+ datasets** into ML-ready pipelines, reducing data validation time by **60%**.  
+  - Designed a prototype integrating **web scraping + LLMs** to map **500+ logistics firms**, improving discoverability by **40%**.  
+
+</details>
+
+
 ### 🏅 Coding Profiles  
 <p align="center">
   <a href="https://codeforces.com/profile/sudhanshu2610"><img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" /></a>
