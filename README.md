@@ -45,7 +45,6 @@
 
 </details>
 
-
 ### 🏅 Coding Profiles  
 <p align="center">
   <a href="https://codeforces.com/profile/sudhanshu2610"><img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" /></a>
@@ -104,13 +103,27 @@
 
 ### 📂 Featured Projects  
 <p align="center">
-  <a href="https://github.com/sudhanshu-iit-g/StackExchangeRAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=StackExchangeRAG&theme=radical" /></a>
-  <a href="https://github.com/sudhanshu-iit-g/TextLite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=TextLite&theme=radical" /></a>
+  <a href="https://github.com/sudhanshu-iit-g/StackExchangeRAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=StackExchangeRAG&theme=radical&description=Information%20Retrieval%20Engine" />
+  </a>
+  <a href="https://github.com/sudhanshu-iit-g/TextLite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=TextLite&theme=radical" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudhanshu-iit-g/BreatheEasy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=BreatheEasy&theme=radical" /></a>
-  <a href="https://project-sudhanshu-cl653.streamlit.app/"><img src="https://img.shields.io/badge/Demo%20Project-Crop%20Yield%20Prediction-blueviolet?style=for-the-badge&logo=streamlit" /></a>
+  <a href="https://github.com/sudhanshu-iit-g/BreatheEasy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=BreatheEasy&theme=radical" />
+  </a>
+  <a href="https://github.com/sudhanshu-iit-g/Crop_Yield_Prediction_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshu-iit-g&repo=Crop_Yield_Prediction_Project&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://project-sudhanshu-cl653.streamlit.app/">
+    <img src="https://img.shields.io/badge/Demo%20Project-Crop%20Yield%20Prediction-blueviolet?style=for-the-badge&logo=streamlit" />
+  </a>
 </p>
 
 ---
